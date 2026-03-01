@@ -16,7 +16,7 @@ So the TA / user must download the target and template images from the lab mater
 and place them locally.
 you can get the pictures here [https://csundergrad.science.uoit.ca/courses/csci4220u/latest/labs/04-fourier-space-object-detection.html]
 
-I have also uploaded the files with templates and targets on my github. 
+I have also uploaded the files with templates and targets on my github. here [https://github.com/eternalchaoticinflation/csci4220ulemondetector/tree/main]
 
 Requirements
 ------------
